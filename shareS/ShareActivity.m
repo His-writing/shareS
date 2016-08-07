@@ -1,10 +1,3 @@
-//
-//  LXActivity.m
-//  LXActivityDemo
-//
-//  Created by lixiang on 14-3-17.
-//  Copyright (c) 2014年 lcolco. All rights reserved.
-//
 
 #import "ShareActivity.h"
 #define kDeviceHeight [UIScreen mainScreen].bounds.size.height

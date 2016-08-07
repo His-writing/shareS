@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F0AF3B4D1D574A9B00A53819 /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = F0AF3B4C1D574A9B00A53819 /* Untitled.gif */; };
 		F0BE027B1CBD4F8D00F81F90 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BE027A1CBD4F8D00F81F90 /* main.m */; };
 		F0BE027E1CBD4F8D00F81F90 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BE027D1CBD4F8D00F81F90 /* AppDelegate.m */; };
 		F0BE02811CBD4F8E00F81F90 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BE02801CBD4F8E00F81F90 /* ViewController.m */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F0AF3B4C1D574A9B00A53819 /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 		F0BE02761CBD4F8D00F81F90 /* shareS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = shareS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0BE027A1CBD4F8D00F81F90 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F0BE027C1CBD4F8D00F81F90 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 		F0BE026D1CBD4F8D00F81F90 = {
 			isa = PBXGroup;
 			children = (
+				F0AF3B4C1D574A9B00A53819 /* Untitled.gif */,
 				F0BE02781CBD4F8D00F81F90 /* shareS */,
 				F0BE02921CBD4F8E00F81F90 /* shareSTests */,
 				F0BE029D1CBD4F8E00F81F90 /* shareSUITests */,
@@ -293,6 +296,7 @@
 				F0BE02C61CBD50AA00F81F90 /* sns_icon_10@2x.png in Resources */,
 				F0BE02C51CBD50AA00F81F90 /* sns_icon_10.png in Resources */,
 				F0BE02861CBD4F8E00F81F90 /* Assets.xcassets in Resources */,
+				F0AF3B4D1D574A9B00A53819 /* Untitled.gif in Resources */,
 				F0BE02C11CBD509F00F81F90 /* sns_icon_23.png in Resources */,
 				F0BE02C01CBD509F00F81F90 /* sns_icon_22@2x.png in Resources */,
 				F0BE02BA1CBD509500F81F90 /* sns_icon_1@2x.png in Resources */,
@@ -552,6 +556,7 @@
 				F0BE02A51CBD4F8E00F81F90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F0BE02A61CBD4F8E00F81F90 /* Build configuration list for PBXNativeTarget "shareSTests" */ = {
 			isa = XCConfigurationList;
@@ -560,6 +565,7 @@
 				F0BE02A81CBD4F8E00F81F90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F0BE02A91CBD4F8E00F81F90 /* Build configuration list for PBXNativeTarget "shareSUITests" */ = {
 			isa = XCConfigurationList;
@@ -568,6 +574,7 @@
 				F0BE02AB1CBD4F8E00F81F90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
